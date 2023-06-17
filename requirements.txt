@@ -9,4 +9,4 @@ gtts
 playsound
 pydub
 numpy
-streamlib
+streamlit==1.23.0
