@@ -1,7 +1,6 @@
 langchain
 openai
 tweepy
-# needed for voice
 sounddevice
 soundfile
 keyboard
@@ -9,5 +8,4 @@ elevenlabs
 gtts
 playsound
 pydub
-gtts
-sounddevice
+numpy
