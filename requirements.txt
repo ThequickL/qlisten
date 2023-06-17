@@ -9,4 +9,3 @@ gtts
 playsound
 pydub
 numpy
-portaudio
