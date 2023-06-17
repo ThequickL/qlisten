@@ -22,8 +22,8 @@ from langchain.tools import BaseTool
 from langchain.utilities.zapier import ZapierNLAWrapper
 
 
-set_api_key("8993831abd4e6722f54d375b50b16d32")
-openai.api_key = "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"
+set_api_key("")
+openai.api_key = ""
 
 # Set recording parameters
 duration = 5  # duration of each recording in seconds
