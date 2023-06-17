@@ -10,3 +10,4 @@ gtts
 playsound
 pydub
 gtts
+sounddevice
